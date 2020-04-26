@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77074b12-02ed-423c-b0de-1c9e2abbb070" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WublGoAxr8Q0UdVnXosLOjsWPD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aguer\PycharmProjects\Students Database Management Systems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Calculator">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Students Database Management Systems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LibDatabase_BackEnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Students Database Management Systems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LibDatabase_BackEnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Library Database Management Systems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Students Database Management Systems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Library Database Management Systems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Library Database_FrontEnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Students Database Management Systems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Library Database_BackEnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Student Database_FrontEnd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Students Database Management Systems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Student Database_FrontEnd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Calculator" />
+        <item itemvalue="Python.Library Database Management Systems" />
+        <item itemvalue="Python.Student Database_FrontEnd" />
+        <item itemvalue="Python.LibDatabase_BackEnd" />
+        <item itemvalue="Python.Library Database_FrontEnd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Aguer\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77074b12-02ed-423c-b0de-1c9e2abbb070" name="Default Changelist" comment="" />
+      <created>1580002575183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580002575183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1580076357757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1580076357757" />
+    <state x="402" y="0" key="#Library_Database_FrontEnd" timestamp="1583822341520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#Library_Database_FrontEnd/0.0.1366.728@0.0.1366.728" timestamp="1583822341520" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1580005594759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1580005594759" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1585075223732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585075223732" />
+    <state width="1345" height="153" key="GridCell.Tab.0.bottom" timestamp="1585884898414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585884898414" />
+    <state width="1345" height="153" key="GridCell.Tab.0.center" timestamp="1585884898414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585884898414" />
+    <state width="1345" height="153" key="GridCell.Tab.0.left" timestamp="1585884898414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585884898414" />
+    <state width="1345" height="153" key="GridCell.Tab.0.right" timestamp="1585884898414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585884898414" />
+    <state width="1345" height="32" key="GridCell.Tab.1.bottom" timestamp="1583875410786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="32" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583875410786" />
+    <state width="1345" height="32" key="GridCell.Tab.1.center" timestamp="1583875410786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="32" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583875410786" />
+    <state width="1345" height="32" key="GridCell.Tab.1.left" timestamp="1583875410786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="32" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583875410786" />
+    <state width="1345" height="32" key="GridCell.Tab.1.right" timestamp="1583875410786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="32" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583875410786" />
+    <state x="184" y="2" width="998" height="726" key="SettingsEditor" timestamp="1585472373346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="2" width="998" height="726" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585472373346" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585889240894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585889240894" />
+    <state x="333" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580008095927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="333" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1580008095927" />
+    <state x="254" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580105181915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1580105181915" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585472103590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585472103590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint log-message="true" log-stack="true" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
